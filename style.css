@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,500;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;1,200&display=swap');
+
+
+h1{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    
+
+    
+    
+}
+h2{
+    text-align: center;
+    font-stretch: expanded;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.first-note{
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Poppins' , sans-serif;
+}
+h3{
+    padding-top: 100x;
+    font-family: 'Ubuntu' , sans-serif;
+}
+img{
+    border-radius: 100px;
+    box-shadow:  2px 2px 12px rgba(0,0,0.2);
+    
+}
+.first-note{
+    padding: 20px;
+}
+ body{
+     font-family: 'Poppins';
+     background-color: #8d99ae
+     
+ }
+ .disciplina{
+     font-size: 20px;
+     
+ }
+ .dedicação{
+     font-size: 20px;
+
+ }
+.curiosidade{
+    font-size: 20px;
+}
+.solidariedade{
+    font-size: 20px;
+}
+ 
+ 
