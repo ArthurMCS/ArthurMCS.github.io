@@ -30,6 +30,7 @@ img{
     box-shadow:  2px 2px 12px rgba(0,0,0.2);
     
 }
+
 .first-note{
     padding: 20px;
 }
@@ -53,4 +54,10 @@ img{
     font-size: 20px;
 }
  
+.last-note{
+    text-align: center;
+    font-family: 'Poppins' , sans-serif;
+    font-weight: bold;
+
+}
  
